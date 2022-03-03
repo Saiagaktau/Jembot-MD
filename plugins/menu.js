@@ -166,8 +166,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: 'My youtube',
-               url: 'https://youtube.com/channel/UCB157jomCne961WzYHpG4gg'
+               displayText: 'My Web',
+               url: 'https://proxy.com'
              }
 
            },
